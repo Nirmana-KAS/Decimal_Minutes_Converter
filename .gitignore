@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Vercel
+.vercel/
+
+# Node (if tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
